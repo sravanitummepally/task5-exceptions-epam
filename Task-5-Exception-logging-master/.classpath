@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="exe&amp;log/source/main"/>
+	<classpathentry kind="lib" path="exe&amp;log/target/CleanCode-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="exe&amp;log/target/classes"/>
+</classpath>
